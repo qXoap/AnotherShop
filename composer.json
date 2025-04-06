@@ -1,0 +1,20 @@
+{
+  "name": "xoapp/another-shop",
+  "description": "Simple Gui/UI Shop Plugin",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "xoapp",
+      "email": "xoapp@hornymilf.com"
+    }
+  ],
+  "require-dev": {
+    "muqsit/invmenu": "dev-pm5",
+    "paroxity/commando": "dev-master",
+    "dktapps/pmforms": "dev-master"
+  },
+  "require": {
+    "pocketmine/pocketmine-mp": "^5.26.0"
+  }
+}
