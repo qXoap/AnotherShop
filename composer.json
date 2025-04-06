@@ -15,6 +15,7 @@
     "dktapps/pmforms": "dev-master"
   },
   "require": {
-    "pocketmine/pocketmine-mp": "^5.26.0"
+    "pocketmine/pocketmine-mp": "^5.26.0",
+    "ext-zlib": "*"
   }
 }
